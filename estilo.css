@@ -1,0 +1,25 @@
+body {
+  background-color: #1a1a2e;
+  color:white;
+  font-family: arial, sans-serif;
+  text-align:center;
+}
+
+h1{
+  color: #00c3ff;
+  font-size: 67px;
+}
+
+img{
+  border-radius: 67px;
+  border: 3px solid #000000
+}
+
+
+Button{
+  background-color: #fdec00;
+
+  color:white;
+  padding: 5px  7px;
+  cursor: pointer;
+}s
